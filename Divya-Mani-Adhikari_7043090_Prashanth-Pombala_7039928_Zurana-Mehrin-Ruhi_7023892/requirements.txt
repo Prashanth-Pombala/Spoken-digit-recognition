@@ -1,0 +1,14 @@
+numpy==1.22.4
+pandas==1.4.4
+ipython==7.9.0
+scipy==1.10.1
+scikit-learn==1.2.2
+matplotlib==3.7.1
+librosa==0.10.0.post2
+seaborn==0.12.2
+torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu116/torchaudio-0.13.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+torchsummary==1.5.1
+einops==0.6.0
+ray[tune]==2.3.0
+tqdm==4.65.0
